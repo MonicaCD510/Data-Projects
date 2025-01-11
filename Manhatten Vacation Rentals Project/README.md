@@ -7,13 +7,11 @@ This project analyzes Airbnb data to identify the most attractive neighborhoods 
 Technologies Used
 
 Google Sheets
-Python (optional, for data cleaning or automation)
 Getting Started
 
 Clone this repository.
 Make a copy of the data.xlsx spreadsheet.
-(Optional) Install any required Python libraries.
-Usage
+
 
 Open the data.xlsx spreadsheet.
 Explore the pivot tables on different sheets.
