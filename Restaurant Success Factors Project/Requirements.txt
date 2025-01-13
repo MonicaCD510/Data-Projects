@@ -1,0 +1,17 @@
+Analyze a provided dataset on Zomato, a restaurant aggregator and food delivery company.
+Choose one out of three analysis areas to focus on:
+Customer Analysis & Segmentation: Identify customer segments and their purchasing behavior.
+**Restaurant Analysis**
+: Discover popular restaurants and those generating the highest revenue.
+Sales Analysis: Analyze sales trends, key performance indicators (KPIs), and sales distribution.
+Build a research plan for your chosen analysis area.
+Create a dashboard to present your findings.
+Prepare a report or presentation summarizing the key points of your analysis.
+Data is provided in a downloadable archive named "Zomato_data.zip" containing five tables:
+food
+menu
+orders
+restaurant
+users
+Use the provided data only, no external information is allowed.
+You can join the tables as needed for your analysis.
