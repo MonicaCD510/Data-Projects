@@ -1,0 +1,18 @@
+Analyze a provided Shopify app dataset.
+Create a Power BI report with four pages:
+App Landscape:
+Create a KPI card to count the unique number of apps.
+Create a line chart of review count over time.
+Create a scatterplot of reviews count vs. average rating and interpret the results.
+Reviews:
+Create a new column "helpful_reviews" in the Reviews table using a DAX expression.
+Create a card with the average "helpful_reviews" value.
+Create a scatterplot comparing average rating to whether the developer replied to reviews.
+App Reviews:
+Create a relationship between the Reviews and Apps tables in the data model.
+Create a bar chart of developer vs. sum of ratings.
+Create a bar chart of developer vs. average "helpful_reviews".
+Create a bar chart of developer vs. developer response rate (filtered for apps with over 500 reviews).
+Take a screenshot for each sub-question on each page.
+Organize the .pbix project with one page for each section.
+Submit 8 screenshots (one for each sub-question).
