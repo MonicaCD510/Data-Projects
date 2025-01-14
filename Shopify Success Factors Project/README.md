@@ -1,6 +1,6 @@
 Shopify App Store Analysis with Power BI
 This project involved analyzing a dataset of Shopify apps to understand key factors contributing to their success. Using Power BI, I explored various aspects of app performance, including review trends, developer responsiveness, and overall app popularity.
-
+Raw Data:https://docs.google.com/spreadsheets/d/1fb9T5RkNbOojpLYaetmEeB1AnMDnQ78h/edit?usp=drive_link&ouid=104177470114621305770&rtpof=true&sd=true
 Key Findings:
 
 App Landscape:
